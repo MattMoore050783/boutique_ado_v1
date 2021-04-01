@@ -1,0 +1,3 @@
+*.sglite
+*.pyc
+__pycache__
